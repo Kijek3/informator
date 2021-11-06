@@ -2,6 +2,7 @@
 title: Wydział Matematyki i Informatyki
 order: 100
 stub: false
+description: ""
 ---
 ## O Wydziale
 
